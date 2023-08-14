@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Red.WorkPoint.ProjectPlugin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RefreshToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Env" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Prod</Value>
+    </Setting>
+    <Setting Name="Tenant" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppInsightInstrumentationKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">035f9a1f-0d06-464a-846c-78017e022069</Value>
+    </Setting>
+    <Setting Name="PassportUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://localhost:6001</Value>
+    </Setting>
+    <Setting Name="AppUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://localhost:4200</Value>
+    </Setting>
+    <Setting Name="ApiUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://localhost:5001/odata</Value>
+    </Setting>
+    <Setting Name="IdentityToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ImportActualHours" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
